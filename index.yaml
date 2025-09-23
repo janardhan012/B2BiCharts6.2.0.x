@@ -5,7 +5,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.5_1
-    created: "2025-09-23T10:23:30.39747217+05:30"
+    created: "2025-09-24T05:25:52.190736183+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -25,7 +25,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms https://ibm.biz/B2Bi_62
-    digest: 0d508702762bb97eaacaf523c7b3a99b277001442ab65db6a2f7d42774c23470
+    digest: 96fd38a0107c489f78c3b0e4964507c6a69a20839a0a8ebb33754152e31d588e
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -53,7 +53,7 @@ entries:
       charts.openshift.io/name: IBM Sterling File Gateway
     apiVersion: v2
     appVersion: 6.2.0.5_1
-    created: "2025-09-23T10:23:30.4309335+05:30"
+    created: "2025-09-24T05:25:52.225441133+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -72,7 +72,7 @@ entries:
       flowing through it. Documentation For additional details regarding install parameters
       check https://www.ibm.com/support/knowledgecenter/en/SS3JSW_6.2.0/installing/installing/integrator/InstallingCertifiedContainer.html.
       License By installing this product you accept the license terms https://ibm.biz/SFG_620
-    digest: 7c1d66dc520b1256250838c23b49387f44eea1ad03401d0625f0806b5a4d5536
+    digest: f96c8900836583e4b5f2ff567c1c537fcfa98dc012b14410a51b9d4e40c88efb
     home: https://www.ibm.com/support/knowledgecenter/SS3JSW_6.2.0/kc_welcome_b2bi.html
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-sfg-icon.png
     keywords:
@@ -95,4 +95,4 @@ entries:
     urls:
     - ibm-sfg-prod-3.0.8.tgz
     version: 3.0.8
-generated: "2025-09-23T10:23:30.361009238+05:30"
+generated: "2025-09-24T05:25:52.15574917+05:30"

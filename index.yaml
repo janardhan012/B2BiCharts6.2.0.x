@@ -5,7 +5,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.5_2
-    created: "2026-02-05T22:54:38.289762855-05:00"
+    created: "2026-02-06T06:38:37.911126911-05:00"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -25,7 +25,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms https://ibm.biz/B2Bi_62
-    digest: 21c45576971bf51d149c89eaa5d3b63e9168659f284fb892739dc3851ce8e42e
+    digest: c07d39121ef43eb9c9c103b8506cf331398f909a410c8a1dd2c65b4c18513c84
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -53,7 +53,7 @@ entries:
       charts.openshift.io/name: IBM Sterling File Gateway
     apiVersion: v2
     appVersion: 6.2.0.5_2
-    created: "2026-02-05T22:54:38.321030468-05:00"
+    created: "2026-02-06T06:38:37.946040181-05:00"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -72,7 +72,7 @@ entries:
       flowing through it. Documentation For additional details regarding install parameters
       check https://www.ibm.com/support/knowledgecenter/en/SS3JSW_6.2.0/installing/installing/integrator/InstallingCertifiedContainer.html.
       License By installing this product you accept the license terms https://ibm.biz/SFG_620
-    digest: 1fa5d854edeed7e32c34b3a6adeb1c7e6a912301a1a5ff930196c62a482aceed
+    digest: c5fb95d7b5d3c11987ea3377b1e0f1f70baae72f316611ebaf494364dd60ba91
     home: https://www.ibm.com/support/knowledgecenter/SS3JSW_6.2.0/kc_welcome_b2bi.html
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-sfg-icon.png
     keywords:
@@ -95,4 +95,4 @@ entries:
     urls:
     - ibm-sfg-prod-3.0.9.tgz
     version: 3.0.9
-generated: "2026-02-05T22:54:38.251239656-05:00"
+generated: "2026-02-06T06:38:37.851480848-05:00"

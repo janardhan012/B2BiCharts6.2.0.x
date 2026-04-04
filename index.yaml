@@ -5,7 +5,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.6
-    created: "2026-04-03T00:08:45.761712436-04:00"
+    created: "2026-04-04T00:24:49.771211777-04:00"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -25,7 +25,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms https://ibm.biz/B2Bi_62
-    digest: 2de0e6e7938a5926f465f443a06282f16d84c0087b2a479fc3eaf988cb4c3ab7
+    digest: 3c8b1fce8efb128cef130d5caa3ba06137621b5a3616401c50a5dfe85adc87fc
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -53,7 +53,7 @@ entries:
       charts.openshift.io/name: IBM Sterling File Gateway
     apiVersion: v2
     appVersion: 6.2.0.6
-    created: "2026-04-03T00:08:45.799160593-04:00"
+    created: "2026-04-04T00:24:49.80450717-04:00"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -72,7 +72,7 @@ entries:
       flowing through it. Documentation For additional details regarding install parameters
       check https://www.ibm.com/support/knowledgecenter/en/SS3JSW_6.2.0/installing/installing/integrator/InstallingCertifiedContainer.html.
       License By installing this product you accept the license terms https://ibm.biz/SFG_620
-    digest: 3bd2f467144af09afb0978be791ba093ed3c39c55cf43c5ad58071acd7a3b7e4
+    digest: 9fac20154c45c38ade127b31172d3532e4fa2be180a4b6b1f1f6a730a6177b2c
     home: https://www.ibm.com/support/knowledgecenter/SS3JSW_6.2.0/kc_welcome_b2bi.html
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-sfg-icon.png
     keywords:
@@ -94,4 +94,4 @@ entries:
     urls:
     - ibm-sfg-prod-3.0.10.tgz
     version: 3.0.10
-generated: "2026-04-03T00:08:45.724444523-04:00"
+generated: "2026-04-04T00:24:49.738526486-04:00"
